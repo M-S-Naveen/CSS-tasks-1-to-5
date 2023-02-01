@@ -1,0 +1,116 @@
+.whole {
+  width: 1000px;
+  height: 625px;
+  padding-left: 20px;    
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+  background-color: rgb(194, 194, 194)
+}
+.first-row {    
+  display: inline-flex;  
+}
+.color1 {
+  width: 400px;
+  height:100px ;
+  background-color: rgb(202, 2, 2);
+  margin-right: 20px; 
+  margin-bottom: 20px;  
+}
+.color2 {
+  height:100px;
+  width: 580px ;
+  background-color: rgb(5, 5, 156);
+  border-left: 20px; 
+}
+.color3 {
+  height: 150px;
+  width: 1000px;
+  background-color: rgb(114, 114, 8)
+}
+.third-row {
+  height: 100px ;
+  width: 1000px;
+  display: inline-flex;
+}
+.color4 {
+  height: 100px;
+  width: 350px;
+  background-color: rgb(11, 223, 11);
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.color5 {
+  height: 100px;
+  width: 350px;
+  background-color: rgb(138, 12, 138);
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.color6 {
+  height: 100px;
+  width: 350px;
+  background-color: rgb(50, 50, 141);
+  margin-top: 20px;
+
+}
+.fourth-row {display: inline-flex;}
+.color7 {
+ 
+  display: block;
+  height: 100px;
+  width: 490px;
+  background-color: rgb(119, 81, 9);
+  position: absolute;
+  left: 260px;
+}
+.color8 {
+  
+  height: 100px;
+  width: 490px;
+  background-color: rgb(236, 203, 15);
+  position: absolute;
+  right: 260px;
+}
+.color9 {
+  margin-top: 115px;
+  height: 50px;
+  width: 240px;
+  background-color: green;
+  position: absolute;
+  left: 260px;   
+}
+.color10 {
+  margin-top: 115px;
+  height: 50px;
+  width: 240px;
+  background-color: rgb(11, 221, 221);
+  position: absolute;
+  left: 515px;
+}
+.color11 {
+  margin-top: 115px;
+  height: 50px;
+  width: 240px;
+  background-color: rgb(83, 28, 28);
+  position: absolute;
+  right: 510px;
+}
+.color12 {
+  margin-top: 115px;
+  height: 50px;
+  width: 240px;
+  background-color: rgb(44, 56, 224);
+  position: absolute;
+  right: 260px;
+}
+.color13 {
+  height: 20px;
+  width:1000px;
+  background-color: rgb(37, 5, 5);
+  position: absolute;
+  left: 260px;
+  margin-top: 190px;
+}
+  

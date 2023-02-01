@@ -1,0 +1,9 @@
+@font-face {
+   font-family:compact;
+   src: url("Compact.ttf");
+}
+ 
+h1 {
+   font-family:compact;
+   color: darkgreen;
+}

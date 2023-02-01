@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    margin: 100px 100px;
+    width :100%;
+
+}
+p{
+    text-transform: uppercase;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    letter-spacing: 50px;
+    text-align: center;
+    border-bottom: 30px solid rgb(36, 148, 137);
+    
+
+}
+p[class="last"]{
+    border-bottom:none;
+}
+ .div {
+    width: min-content;
+    margin: auto;
+ }

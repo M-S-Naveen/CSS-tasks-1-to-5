@@ -1,0 +1,28 @@
+body {
+    max-width: max-content;
+    text-align:center ;
+}
+p {      
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;      
+    width: 71%;   
+    margin-bottom: 0;
+    text-align: left;
+}
+img {    
+    width: 25rem;
+    height: 20rem;
+    position:absolute;
+    right: 0;
+    top: 0;    
+}
+.second {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;      
+    width: 100%;  
+    margin-top: 0; 
+    text-align: left;
+}
+

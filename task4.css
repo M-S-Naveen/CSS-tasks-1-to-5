@@ -1,0 +1,11 @@
+html {
+    background-image: url(https://www.xmple.com/wallpaper/linear-gradient-grey-2560x1600-c2-696969-d3d3d3-a-270-f-14.svg);
+}
+img {      
+        width: 200px;
+        height: 200px;
+        position:relative;
+        bottom: -270px;
+        left: calc(80% - 100px);
+      
+}
